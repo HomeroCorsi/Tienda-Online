@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    background-color: #fffdfb;
+  }
+
+  :root {
+    --color-primary: #fde9df;
+    --color-secondary: #0881a3;
+    --color-tertiary: #ffd6a4;
+    --color-quaternary: #fffdfb;
+  }
